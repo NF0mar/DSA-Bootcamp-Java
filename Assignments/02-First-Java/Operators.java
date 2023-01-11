@@ -1,4 +1,5 @@
 package Assignments;
+
 import java.util.Scanner;
 
 public class Operators {
