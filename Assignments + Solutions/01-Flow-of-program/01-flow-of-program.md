@@ -1,0 +1,30 @@
+[Video Link](https://youtu.be/lhELGQAV4gg)
+
+## Create flowchart and pseudocode for the following:
+
+##### 1. Input a year and find whether it is a leap year or not.
+
+start
+input year
+if year % 4 = 0:
+	output leap year
+else:
+	output not a leap year
+end
+
+![Alt text](sol1.jpg)
+
+##### 2. Take two numbers and print the sum of both.
+
+start
+input num1
+input num2
+sum = num1+num2
+output sum
+end
+
+![Alt text](sol2.jpg)
+
+3. Take a number as input and print the multiplication table for it.
+4. Take 2 numbers as inputs and find their HCF and LCM.
+5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
