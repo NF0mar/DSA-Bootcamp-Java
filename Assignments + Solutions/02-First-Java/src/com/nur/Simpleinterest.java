@@ -1,4 +1,4 @@
-package Assignments;
+package com.nur;
 
 import java.util.Scanner;
 

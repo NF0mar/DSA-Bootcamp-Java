@@ -18,5 +18,9 @@ public class Primitives {
         //holds value from -32768 to 32767
         short min = -32768;
         short max = 32767;
+
+        float fl = 80.9f;
+        fl++;
+        System.out.println(fl);
     }
 }
